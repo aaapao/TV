@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-05 18:58:39,url
+2025-04-06 06:52:52,url
 📺央视频道,#genre#
 CCTV-1,http://220.164.192.48:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -908,6 +908,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$1920x1080
 J2,http://r.jdshipin.com/ndGgS
 J2,http://r.jdshipin.com/Nr5jq
+Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8
@@ -946,10 +947,13 @@ CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&play
 淘电影,https://stream1.freetv.fun/tao-dian-ying-9.ctv
 淘电影,https://stream1.freetv.fun/tao-dian-ying-4.ctv
 淘电影,https://stream1.freetv.fun/tao-dian-ying-2.ctv
+NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
+NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8
 IPTV经典电影,http://123.56.129.203:3749/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:9657/rtp/225.1.8.203:9024
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080
@@ -1002,6 +1006,7 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.75:5146
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.70:5146
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://123.129.70.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1047,8 +1052,8 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-5.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-11.ctv
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$1920x1080
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$1920x1080
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 金鹰卡通,http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1058,14 +1063,15 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 金鹰卡通,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
+猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,http://live.iill.top/huya.php?id=11352879
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
-电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$1920x1080
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140
 🎵音乐频道,#genre#
 CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://220.164.192.48:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1091,4 +1097,3 @@ CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$1920x1080
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 音乐调频广播,http://120.55.49.231:6396/rtp/233.50.201.82:5140
 🏛经典剧场,#genre#
-知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
